@@ -188,7 +188,7 @@ inventory is from <i>Johnson's (2014) 120-item IPIP NEO-PI-R</i>.`,
     name: 'Name'
   },
   results: {
-    theBigFive: 'The Big Five',
+    theBigFive: 'The Big Five Assessment Results',
     score: 'score',
     important: 'Important!',
     saveResults: 'Save the following ID to see the results later or ',
